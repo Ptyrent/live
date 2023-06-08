@@ -387,3 +387,21 @@ http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="测试频道",儒释道经
 https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+#EXTINF:-2 group-title="港澳频道",翡翠台
+http://113.117.74.40:8081/hls/25/index.m3u8
+#EXTINF:-2 group-title="港澳频道",翡翠台2
+https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1685082157&rand=QqdP6OXyNW&uuid=9b647b3816b2a66a&from=web&sign=711982814b8c3ddfccfd05ae59a47948
+#EXTINF:-2 group-title="港澳频道",翡翠台3
+翡翠台2,http://113.117.74.22:8081/hls/25/index.m3u8
+#EXTINF:-2 group-title="港澳频道",翡翠台4
+翡翠台,http://113.117.74.45:8081/hls/67/index.m3u8
+#EXTINF:-2 group-title="港澳频道",明珠台
+http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-2 group-title="港澳频道",明珠台2
+明珠台,http://113.117.74.40:8081/hls/26/index.m3u8
+#EXTINF:-2 group-title="港澳频道",明珠台3
+明珠台,http://113.117.74.20:8081/hls/26/index.m3u8
+#EXTINF:-2 group-title="港澳频道",明珠台4
+明珠台,http://lu1.cc/itv/php/gudou.php?id=mzt
+#EXTINF:-2 group-title="港澳频道",明珠台5
+明珠台,http://moking2010.x10.mx/gd1.php?id=mzt
